@@ -1,0 +1,4 @@
+# Load environment variables from .env files
+python-dotenv==1.0.0
+# Progress bar library for loops and iterations
+tqdm==4.66.1

@@ -1,0 +1,14 @@
+Discover the Beauty of Vietnam, {name}!
+---
+Dear {name},
+
+Vietnam is a country located in Southeast Asia, known for its diverse landscapes and rich culture.
+
+Vietnam is also famous for its unique cuisine, from pho and banh mi to regional specialties.
+
+The country's folk culture, traditional festivals, and warm hospitality make it a truly special destination.
+
+We hope you'll consider visiting Vietnam soon!
+
+Best regards,
+Vietnam Tourism Team
